@@ -1,0 +1,13 @@
+//
+//  Staging-Release.xcconfig
+//  ConfiguragtionsExample
+//
+//  Created by Moath_Othman on 11/22/19.
+//  Copyright © 2019 whitetorch. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+PRODUCT_BUNDLE_ID=com.whitetorch.ConfiguragtionsExample.staging
+APP_NAME = Staging App
+Environment = Staging
