@@ -4,8 +4,6 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
-	<key>Environment</key>
-	<string>$(Environment)</string>
 	<key>CFBundleDisplayName</key>
 	<string>$(APP_NAME)</string>
 	<key>CFBundleExecutable</key>
@@ -22,6 +20,8 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>Environment</key>
+	<string>$(Environment)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>

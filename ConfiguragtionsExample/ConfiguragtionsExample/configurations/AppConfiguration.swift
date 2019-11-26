@@ -1,9 +1,9 @@
 //
 //  AppConfiguration.swift
-//  kmt
+//
 //
 //  Created by Moath_Othman on 1/27/19.
-//  Copyright © 2019 pixilapps. All rights reserved.
+//  Copyright © 2019 Moath Othman. All rights reserved.
 //
 
 import Foundation
